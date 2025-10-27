@@ -1,0 +1,61 @@
+{
+  "name": "Trackpi Pvt Ltd",
+  "tagline": "People\u2019s Interest, Our Interest",
+  "location": "Ernakulam, Kerala, India",
+  "physicalAddress": "KC Arcade, Near TV Centre, CSEZ, Ernakulam - 682037",
+  "contact": {
+    "phone": "+91 80781 79646",
+    "website": "https://www.trackpi.in",
+    "instagram": "https://www.instagram.com/trackpi.in",
+    "facebook": "https://www.facebook.com/trackpi.in",
+    "linkedin": "https://www.linkedin.com/company/trackpi"
+  },
+  "mission": "To empower businesses to achieve sustainable growth and operational excellence through strategic insights, innovative solutions, and lasting partnerships.",
+  "vision": "To be the leading consulting partner across industries, known for our integrity, innovation, and measurable impact on business success.",
+  "services": [
+    {
+      "name": "Sales Outsourcing"
+    },
+    {
+      "name": "Market Positioning & Branding"
+    },
+    {
+      "name": "Sales Training Strategies"
+    },
+    {
+      "name": "Operations Training & Strategies"
+    },
+    {
+      "name": "Financial Consulting"
+    },
+    {
+      "name": "Hiring & Retention"
+    },
+    {
+      "name": "Risk Management"
+    },
+    {
+      "name": "Asset Management"
+    },
+    {
+      "name": "IT Services"
+    }
+  ],
+  "team": [
+    {
+      "name": "Vinayak PS",
+      "role": "Founder & CEO",
+      "background": "Over 14 years of experience across industries, started as a Mechanical Engineer, specialized in sales."
+    },
+    {
+      "name": "Sreerag Sasidharan",
+      "role": "Co-founder",
+      "background": "Over 10 years of diverse experience including analytical consulting and credit card sales."
+    },
+    {
+      "name": "Sarath Jeev Kumar A",
+      "role": "Co-founder",
+      "background": "Project Manager with over 10 years of experience, transitioned from engineering to management."
+    }
+  ]
+}
